@@ -1,0 +1,13 @@
+{
+    "deployDevice": "Roku_Ultra",
+    "devices": {
+        "Roku_Ultra": {
+            "ip": "192.168.43.155",
+            "pass": "1111",
+            "devId": "",
+            "packagePass": ""
+        }
+    }
+}
+
+
